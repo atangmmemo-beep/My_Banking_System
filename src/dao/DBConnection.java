@@ -10,7 +10,7 @@ import java.sql.Statement;
 public class DBConnection {
 
     private static final String USER= "root";
-    private static final String PASSWORD = "your_mysql_password";
+    private static final String PASSWORD = "password";
 
     private static final String OPTIONS = "?sslMode=DISABLED&allowPublicKeyRetrieval=true";
 
